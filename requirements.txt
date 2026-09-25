@@ -1,0 +1,11 @@
+requests
+pandas
+numpy
+chromadb
+sentence-transformers
+SpeechRecognition
+sounddevice
+soundfile
+pyttsx3
+openai-whisper
+psycopg2-binary

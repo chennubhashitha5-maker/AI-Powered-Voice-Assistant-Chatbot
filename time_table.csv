@@ -1,0 +1,151 @@
+﻿faculty,subject,day,period,starting_time,ending_time,section,room_number
+V.Rama Krishna,Probability and Statistics,Monday,1,09:00,09:50,CSM-2,T9
+P.Narasimham,Machine Learning,Monday,2,09:50,10:40,CSM-2,T9
+R.Madhukanth,Full Stack Development Lab,Monday,3,10:50,11:30,CSM-2,T10
+R.Madhukanth,Full Stack Development Lab,Monday,4,11:30,12:20,CSM-2,T10
+R.Madhukanth,Full Stack Development Lab,Monday,5,12:20,01:10,CSM-2,T10
+P.Pavani,Aptitude,Monday,6,02:00,02:50,CSM-2,T10
+P.Pavani,Aptitude,Monday,7,02:50,03:40,CSM-2,T10
+E.Narmadha,Data Base Management Systems,Monday,8,03:40,04:30,CSM-2,T9
+M.Anitha,Software Testing Methodology,Monday,1,09:00,09:50,CSM-3A,T13
+Ch.Suresh Babu,Natural Language Processing,Monday,2,09:50,10:40,CSM-3A,T13
+P.Mareswaramma,Deep Learning,Monday,3,10:50,11:30,CSM-3A,T13
+D.Ritwik,Data Visualization,Monday,4,11:30,12:20,CSM-3A,T13
+A.Sri Chaitanya,Technical Paper Writing and IPR,Monday,5,12:20,01:10,CSM-3A,T13
+P.Mareswaramma,Deep Learning,Monday,6,02:00,02:50,CSM-3A,T13
+Md.Eliaz,Counseling,Monday,7,02:50,03:40,CSM-3A,T13
+R.Madhukanth,Counseling,Monday,7,02:50,03:40,CSM-3A,T13
+A.Aruna,Counseling,Monday,7,02:50,03:40,CSM-3A,T13
+M.Anitha,Software Testing Methodology,Monday,8,03:40,04:30,CSM-3A,T13
+Jagadesh,Disaster Management,Monday,1,09:00,09:50,CSM-3B,T14
+Md.Eliaz,Software Project Management,Monday,2,09:50,10:40,CSM-3B,T14
+K.Prasanth,Data Visualization,Monday,3,10:50,11:30,CSM-3B,T14
+A.Sudhakar,Deep Learning,Monday,4,11:30,12:20,CSM-3B,T14
+M.Anitha,Software Testing Methodology,Monday,5,12:20,01:10,CSM-3B,T14
+Md.Eliaz,Software Project Management,Monday,6,02:00,02:50,CSM-3B,T14
+M.Aruna Safali,Natural Language Processing,Monday,7,02:50,03:40,CSM-3B,T14
+Md.Eliaz,Sports,Monday,8,03:40,04:30,CSM-3B,Ground
+E.Narmadha,Data Base Management Systems,Tuesday,1,09:00,09:50,CSM-2,T9
+Parvathi,Digital Logic and Computer Organization,Tuesday,2,09:50,10:40,CSM-2,T9
+R.Kiran Kumar,Optimization Techniques,Tuesday,3,10:50,11:30,CSM-2,T9
+Ranjith,Student Wellness: Career Development of Job readings Training,Tuesday,4,11:30,12:20,CSM-2,T9
+Ranjith,Student Wellness: Career Development of Job readings Training,Tuesday,5,12:20,01:10,CSM-2,T9
+P.Narasimham,Machine Learning,Tuesday,6,02:00,02:50,CSM-2,T10
+P.Narasimham,Machine Learning,Tuesday,7,02:50,03:40,CSM-2,T10
+P.Narasimham,Machine Learning,Tuesday,8,03:40,04:30,CSM-2,T10
+M.Roja,Skill Enhancement course (Soft Skills),Tuesday,1,09:00,09:50,CSM-3A,T13
+M.Roja,Skill Enhancement course (Soft Skills),Tuesday,2,09:50,10:40,CSM-3A,T13
+M.Roja,Skill Enhancement course (Soft Skills),Tuesday,3,10:50,11:30,CSM-3A,T13
+Ch.Divya,Disaster Management,Tuesday,4,11:30,12:20,CSM-3A,T13
+Ch.Suresh Babu,Natural Language Processing,Tuesday,5,12:20,01:10,CSM-3A,T13
+Sree Kumar,Aptitude,Tuesday,6,02:00,02:50,CSM-3A,T13
+Sree Kumar,Aptitude,Tuesday,7,02:50,03:40,CSM-3A,T13
+D.Ritwik,Data Visualization,Tuesday,8,03:40,04:30,CSM-3A,T13
+M.Aruna Safali,Natural Language Processing,Tuesday,1,09:00,09:50,CSM-3B,T14
+K.Prasanth,Data Visualization,Tuesday,2,09:50,10:40,CSM-3B,T14
+A.Sudhakar,Deep Learning,Tuesday,3,10:50,11:30,CSM-3B,T14
+Md.Eliaz,Library,Tuesday,4,11:30,12:20,CSM-3B,Library
+M.Anitha,Software Testing Methodology,Tuesday,5,12:20,01:10,CSM-3B,T14
+A.Sudhakar,Deep Learning,Tuesday,6,02:00,02:50,CSM-3B,T14
+P.Mareswaramma,Counseling,Tuesday,7,02:50,03:40,CSM-3B,T14
+K.Prasanth,Counseling,Tuesday,7,02:50,03:40,CSM-3B,T14
+T.Swathi,Counseling,Tuesday,7,02:50,03:40,CSM-3B,T14
+Md.Eliaz,Software Project Management,Tuesday,8,03:40,04:30,CSM-3B,T14
+R.Kiran Kumar,Optimization Techniques,Wednesday,1,09:00,09:50,CSM-2,T9
+E.Narmadha,Data Base Management Systems,Wednesday,2,09:50,10:40,CSM-2,T9
+V.Rama Krishna,Probability and Statistics,Wednesday,3,10:50,11:30,CSM-2,T9
+Parvathi,Digital Logic and Computer Organization,Wednesday,4,11:30,12:20,CSM-2,T9
+A.Sudhakar,Counseling,Wednesday,5,12:20,01:10,CSM-2,T9
+E.Narmadha,Counseling,Wednesday,5,12:20,01:10,CSM-2,T9
+D.Ritwik,Counseling,Wednesday,5,12:20,01:10,CSM-2,T9
+A.Aruna,Technical,Wednesday,6,02:00,02:50,CSM-2,T9
+A.Aruna,Technical,Wednesday,7,02:50,03:40,CSM-2,T9
+P.Narasimham,Machine Learning,Wednesday,8,03:40,04:30,CSM-2,T9
+M.Anitha,Software Testing Methodology,Wednesday,1,09:00,09:50,CSM-3A,T13
+D.Ritwik,Data Visualization,Wednesday,2,09:50,10:40,CSM-3A,T13
+Ch.Suresh Babu,Natural Language Processing,Wednesday,3,10:50,11:30,CSM-3A,T13
+A.Aruna,Software Project Management,Wednesday,4,11:30,12:20,CSM-3A,T13
+Ch.Divya,Disaster Management,Wednesday,5,12:20,01:10,CSM-3A,T13
+D.Ritwik,Data Visualization Lab,Wednesday,6,02:00,02:50,CSM-3A,T10
+D.Ritwik,Data Visualization Lab,Wednesday,7,02:50,03:40,CSM-3A,T10
+D.Ritwik,Data Visualization Lab,Wednesday,8,03:40,04:30,CSM-3A,T10
+A.Sudhakar,Deep Learning Lab,Wednesday,1,09:00,09:50,CSM-3B,T10
+A.Sudhakar,Deep Learning Lab,Wednesday,2,09:50,10:40,CSM-3B,T10
+A.Sudhakar,Deep Learning Lab,Wednesday,3,10:50,11:30,CSM-3B,T10
+M.Aruna Safali,Natural Language Processing,Wednesday,4,11:30,12:20,CSM-3B,T14
+K.Prasanth,Data Visualization,Wednesday,5,12:20,01:10,CSM-3B,T14
+Md.Eliaz,Software Project Management,Wednesday,6,02:00,02:50,CSM-3B,T14
+Jagadesh,Disaster Management,Wednesday,7,02:50,03:40,CSM-3B,T14
+M.Anitha,Software Testing Methodology,Wednesday,8,03:40,04:30,CSM-3B,T14
+P.Narasimham,Machine Learning,Thursday,1,09:00,09:50,CSM-2,T9
+E.Narmadha,Data Base Management Systems,Thursday,2,09:50,10:40,CSM-2,T9
+D.Ritwik,Technical,Thursday,3,10:50,11:30,CSM-2,T9
+D.Ritwik,Technical,Thursday,4,11:30,12:20,CSM-2,T9
+Parvathi,Digital Logic and Computer Organization,Thursday,5,12:20,01:10,CSM-2,T9
+V.Rama Krishna,Probability and Statistics,Thursday,6,02:00,02:50,CSM-2,T9
+R.Kiran Kumar,Optimization Techniques,Thursday,7,02:50,03:40,CSM-2,T9
+E.Narmadha,Sports,Thursday,8,03:40,04:30,CSM-2,Ground
+P.Mareswaramma,Deep Learning Lab,Thursday,1,09:00,09:50,CSM-3A,T10
+P.Mareswaramma,Deep Learning Lab,Thursday,2,09:50,10:40,CSM-3A,T10
+P.Mareswaramma,Deep Learning Lab,Thursday,3,10:50,11:30,CSM-3A,T10
+Ch.Divya,Disaster Management,Thursday,4,11:30,12:20,CSM-3A,T13
+P.Mareswaramma,Deep Learning,Thursday,5,12:20,01:10,CSM-3A,T13
+A.Aruna,Software project Management,Thursday,6,02:00,02:50,CSM-3A,T13
+Ch.Suresh Babu,Natural Language Processing,Thursday,7,02:50,03:40,CSM-3A,T13
+M.Anitha,Software Testing Methodology,Thursday,8,03:40,04:30,CSM-3A,T13
+Sree Kumar,Aptitude,Thursday,1,09:00,09:50,CSM-3B,T14
+Sree Kumar,Aptitude,Thursday,2,09:50,10:40,CSM-3B,T14
+M.Aruna Safali,Natural Language Processing,Thursday,3,10:50,11:30,CSM-3B,T14
+Jagadesh,Disaster Management,Thursday,4,11:30,12:20,CSM-3B,T14
+M.Anitha,Software Testing Methodology,Thursday,5,12:20,01:10,CSM-3B,T14
+K.Prasanth,Data Visualization Lab,Thursday,6,02:00,02:50,CSM-3B,T10
+K.Prasanth,Data Visualization Lab,Thursday,7,02:50,03:40,CSM-3B,T10
+K.Prasanth,Data Visualization Lab,Thursday,8,03:40,04:30,CSM-3B,T10
+R.Kiran Kumar,Optimization Techniques,Friday,1,09:00,09:50,CSM-2,T9
+P.Narasimham,Machine Learning,Friday,2,09:50,10:40,CSM-2,T9
+R.Madhukanth,Design Thinking LAB,Friday,3,10:50,11:30,CSM-2,T10
+R.Madhukanth,Design Thinking LAB,Friday,4,11:30,12:20,CSM-2,T10
+R.Madhukanth,Design Thinking LAB,Friday,5,12:20,01:10,CSM-2,T10
+E.Narmadha,Data Base Management Systems,Friday,6,02:00,02:50,CSM-2,T9
+V.Rama Krishna,Probability and Statistics,Friday,7,02:50,03:40,CSM-2,T9
+Parvathi,Digital Logic and Computer Organization,Friday,8,03:40,04:30,CSM-2,T9
+M.Himaja Joythi,Technical,Friday,1,09:00,09:50,CSM-3A,T13
+M.Himaja Joythi,Technical,Friday,2,09:50,10:40,CSM-3A,T13
+D.Ritwik,Data Visualization,Friday,3,10:50,11:30,CSM-3A,T13
+P.Mareswaramma,Deep Learning,Friday,4,11:30,12:20,CSM-3A,T13
+A.Aruna,Software Project Management,Friday,5,12:20,01:10,CSM-3A,T13
+M.Anitha,Software Testing Methodology,Friday,6,02:00,02:50,CSM-3A,T13
+A.Sri Chaitanya,Technical Paper Writing and IPR,Friday,7,02:50,03:40,CSM-3A,T13
+P.Mareswaramma,Sports,Friday,8,03:40,04:30,CSM-3A,Ground
+K.Prasanth,Data Visualization,Friday,1,09:00,09:50,CSM-3B,T14
+M.Anitha,Software Testing Methodology,Friday,2,09:50,10:40,CSM-3B,T14
+A.Sri Chaitanya,Technical Paper Writing and IPR,Friday,3,10:50,11:30,CSM-3B,T14
+Md.Eliaz,Software Project Management,Friday,4,11:30,12:20,CSM-3B,T14
+A.Sudhakar,Deep Learning,Friday,5,12:20,01:10,CSM-3B,T14
+M.Aruna Safali,Natural Language Processing,Friday,6,02:00,02:50,CSM-3B,T14
+Jagadesh,Disaster Management,Friday,7,02:50,03:40,CSM-3B,T14
+Sree Kumar,Aptitude,Friday,8,03:40,04:30,CSM-3B,T14
+E.Narmadha,Data Base Management Systems Lab,Saturday,1,09:00,09:50,CSM-2,T10
+E.Narmadha,Data Base Management Systems Lab,Saturday,2,09:50,10:40,CSM-2,T10
+E.Narmadha,Data Base Management Systems Lab,Saturday,3,10:50,11:30,CSM-2,T10
+V.Rama Krishna,Probability and Statistics,Saturday,4,11:30,12:20,CSM-2,T9
+Parvathi,Digital Logic and Computer Organization,Saturday,5,12:20,01:10,CSM-2,T9
+E.Narmadha,Library,Saturday,6,02:00,02:50,CSM-2,Library
+P.Narasimham,Machine Learning,Saturday,7,02:50,03:40,CSM-2,T9
+R.Kiran Kumar,Optimization Techniques,Saturday,8,03:40,04:30,CSM-2,T9
+A.Aruna,Software Project Management,Saturday,1,09:00,09:50,CSM-3A,T13
+Ch.Suresh Babu,Natural Language Processing,Saturday,2,09:50,10:40,CSM-3A,T13
+D.Ritwik,Data Visualization,Saturday,3,10:50,11:30,CSM-3A,T13
+M.Anitha,Software Testing Methodology,Saturday,4,11:30,12:20,CSM-3A,T13
+P.Mareswaramma,Library,Saturday,5,12:20,01:10,CSM-3A,Library
+Sree Kumar,Aptitude,Saturday,6,02:00,02:50,CSM-3A,T13
+Ch.Divya,Disaster Management,Saturday,7,02:50,03:40,CSM-3A,T13
+P.Mareswaramma,Deep Learning,Saturday,8,03:40,04:30,CSM-3A,T13
+M.Himaja Joythi,Technical,Saturday,1,09:00,09:50,CSM-3B,T14
+M.Himaja Joythi,Technical,Saturday,2,09:50,10:40,CSM-3B,T14
+M.Roja,Skill Enhancement course (Soft Skills),Saturday,3,10:50,11:30,CSM-3B,T14
+M.Roja,Skill Enhancement course (Soft Skills),Saturday,4,11:30,12:20,CSM-3B,T14
+M.Roja,Skill Enhancement course (Soft Skills),Saturday,5,12:20,01:10,CSM-3B,T14
+A.Sudhakar,Deep Learning,Saturday,6,02:00,02:50,CSM-3B,T14
+K.Prasanth,Data Visualization,Saturday,7,02:50,03:40,CSM-3B,T14
+A.Sri Chaitanya,Technical Paper Writing and IPR,Saturday,8,03:40,04:30,CSM-3B,T14

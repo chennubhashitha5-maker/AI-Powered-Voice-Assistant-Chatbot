@@ -1,0 +1,18 @@
+# Virtual Environment
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio files
+*.wav
+
+# Word temporary files
+~$*.docx
+
+# VS Code settings
+.vscode/
+
+# Chroma database
+chroma_db/
