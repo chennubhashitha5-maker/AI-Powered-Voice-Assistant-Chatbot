@@ -163,28 +163,22 @@ Timetable
 ## Screenshots
 
 ### Voice Assistant Workflow
-
-![Voice Assistant Workflow](screenshots/voice_assistant_workflow.png)
+![Voice Assistant Workflow](screenshorts/voice_assistant_workflow.png)
 
 ---
 
 ### Assistant Taking Input
-
-![Assistant Taking Input](screenshots/Assistant_taking_input.png)
+![Assistant Taking Input](screenshorts/Assistant_taking_input.png)
 
 ---
 
 ### Faculty Profile Result
-
-![Faculty Profile Result](screenshots/faculty_profile_result.png)
+![Faculty Profile Result](screenshorts/faculty_profile_result.png)
 
 ---
 
 ### Timetable Result
-
-![Timetable Result](screenshots/timetable_result.png)
-
----
+![Timetable Result](screenshorts/timetable_result.png)
 
 ## Future Enhancements
 
