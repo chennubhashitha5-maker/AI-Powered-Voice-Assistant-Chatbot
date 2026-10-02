@@ -84,30 +84,29 @@ The project combines Artificial Intelligence, Retrieval-Augmented Generation (RA
 
 ## Project Structure
 
+
 ```text
 voice_assistant/
 │
-├── voice_assistant.py
-├── answer_generate.py
-├── router.py
-├── query_classifier.py
-├── service_classifier.py
-├── faculty_retriever.py
-├── timetable_retriever.py
-├── timetable_service.py
-├── speech_to_text.py
-├── text_to_speech.py
-├── record_audio.py
-├── play_audio.py
-├── faculty_name_matcher.py
-├── prepare_documents2.py
-├── build_chroma.py
-├── ingest.py
-├── faculty.csv
-├── time_table.csv
-├── requirements.txt
-├── README.md
-└── .gitignore
+├── src/                         # Core application source code
+│   ├── voice_assistant.py        # Main application entry point
+│   ├── router.py                # Routes user queries to the appropriate service
+│   ├── ...                      # Other modules (STT, TTS, retrieval, classification, etc.)
+│
+├── scripts/                     # Utility scripts used during project setup
+│   ├── prepare_documents2.py    # Prepares faculty documents for embedding
+│   ├── build_chroma.py          # Creates the ChromaDB vector database
+│   └── ingest.py                # Loads data into the vector database
+│
+├── data/                        # Project datasets
+│   ├── faculty.csv              # Faculty information dataset
+│   └── time_table.csv           # Faculty timetable dataset
+│
+├── screenshorts/                # Screenshots used in the README
+│
+├── README.md                    # Project documentation
+├── requirements.txt             # Python dependencies
+└── .gitignore                   # Files and folders ignored by Git
 ```
 
 ---
